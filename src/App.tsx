@@ -81,16 +81,15 @@ function App() {
             </h2>
             <div className="bg-dark-light/50 backdrop-blur-lg rounded-2xl p-8 shadow-xl text-gray-300 text-lg leading-relaxed space-y-4">
               <p>
-                Olá! Meu nome é Gustavo Siqueira, tenho 20 anos e sou estudante na E2S. Minha paixão por tecnologia me guia para explorar suas inúmeras aplicações em áreas como a indústria biomédica, eletrotécnica e desenvolvimento de software. Acredito que a tecnologia, quando bem aplicada, pode transformar vidas e moldar o futuro.
+                Hello! My name is Gustavo Siqueira, I am 20 years old, and I am a student at E2S. My passion for technology drives me to explore its countless applications in areas such as biomedical engineering, electrical engineering, and software development. I believe that technology, when well applied, can transform lives and shape the future.              </p>
+              <p>
+                In addition, I am a philosophy enthusiast, seeking to understand the world and the challenges we face in a deeper way. In my free time, I dedicate myself to sports, with a special fondness for volleyball, which teaches me discipline, teamwork, and overcoming challenges.
               </p>
               <p>
-                Além disso, sou um entusiasta da filosofia, buscando compreender o mundo e os desafios que enfrentamos de maneira mais profunda. Nos momentos livres, dedico-me ao desporto, com um carinho especial pelo volleyball, que me ensina disciplina, trabalho em equipe e superação.
+                Currently, I am focusing my studies on the fascinating field of health, where I intend to combine technology and human knowledge to create solutions that truly make a difference.
               </p>
               <p>
-                Atualmente, estou direcionando meus estudos para o fascinante ramo da saúde, onde pretendo combinar tecnologia e conhecimento humano para criar soluções que realmente façam a diferença.
-              </p>
-              <p>
-                Este portfólio reflete minha jornada, projetos e habilidades desenvolvidas ao longo do tempo. Espero que você encontre inspiração e valor no que compartilho aqui!
+              This portfolio reflects my journey, projects, and skills developed over time. I hope you find inspiration and value in what I share here!
               </p>
             </div>
           </div>
